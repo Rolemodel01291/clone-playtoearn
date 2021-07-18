@@ -6,3 +6,7 @@ Tech stack:
 
 React/Redux toolkit/TailwindCSS/MUI
 Django/Python/Django Rest Framework/Selenium/Scrappy
+
+Docker build:
+
+https://dev.playervscrypto.com:4000
